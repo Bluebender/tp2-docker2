@@ -1,5 +1,6 @@
 {
   "name": "projet-deploiement",
+  "homepage": "https://bluebender.github.io/<tp2-docker2>",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
