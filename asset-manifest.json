@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/%3Ctp2-docker2%3E/static/css/main.f855e6bc.css",
-    "main.js": "/%3Ctp2-docker2%3E/static/js/main.90b67db8.js",
-    "static/js/453.8b01f14b.chunk.js": "/%3Ctp2-docker2%3E/static/js/453.8b01f14b.chunk.js",
-    "static/media/logo.svg": "/%3Ctp2-docker2%3E/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/%3Ctp2-docker2%3E/index.html",
-    "main.f855e6bc.css.map": "/%3Ctp2-docker2%3E/static/css/main.f855e6bc.css.map",
-    "main.90b67db8.js.map": "/%3Ctp2-docker2%3E/static/js/main.90b67db8.js.map",
-    "453.8b01f14b.chunk.js.map": "/%3Ctp2-docker2%3E/static/js/453.8b01f14b.chunk.js.map"
+    "main.css": "/tp2-docker2/static/css/main.f855e6bc.css",
+    "main.js": "/tp2-docker2/static/js/main.79a59ecc.js",
+    "static/js/453.8b01f14b.chunk.js": "/tp2-docker2/static/js/453.8b01f14b.chunk.js",
+    "static/media/logo.svg": "/tp2-docker2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tp2-docker2/index.html",
+    "main.f855e6bc.css.map": "/tp2-docker2/static/css/main.f855e6bc.css.map",
+    "main.79a59ecc.js.map": "/tp2-docker2/static/js/main.79a59ecc.js.map",
+    "453.8b01f14b.chunk.js.map": "/tp2-docker2/static/js/453.8b01f14b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.90b67db8.js"
+    "static/js/main.79a59ecc.js"
   ]
 }
